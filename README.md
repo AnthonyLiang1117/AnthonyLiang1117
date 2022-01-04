@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I'm Anthony, a full stack software engineer
-- 💬 If you want to say hi, [shoot me a message](antliang1117@gmail.com)
+- 💬 If you want to say hi, [shoot me a message](mailto:antliang1117@gmail.com)
 - ⚙️ Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
