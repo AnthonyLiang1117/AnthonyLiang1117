@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 😄 I'm Anthony, a full stack software engineer
+- 👨🏻‍💻 I'm Anthony, a full stack software engineer
 - 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms
 - 💬 If you want to say hi, [shoot me a message](mailto:antliang1117@gmail.com)
 - ⚙️ Languages & Tools:
