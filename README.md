@@ -15,8 +15,6 @@
 <img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
 <!--
 **AnthonyLiang1117/AnthonyLiang1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
