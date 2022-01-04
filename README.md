@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I'm Anthony, a full stack software engineer
+- 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms.
 - 💬 If you want to say hi, [shoot me a message](mailto:antliang1117@gmail.com)
 - ⚙️ Languages & Tools:
 
