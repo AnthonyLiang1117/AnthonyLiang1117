@@ -5,7 +5,7 @@
 - 👨🏻‍💻 I'm Anthony, a full stack software engineer
 - 🔭 I’m currently learning Python and practicing Algorithms and Data Structures: 
   [Anthony's Algo Repo](https://github.com/AnthonyLiang1117/coding-prep)
-- 💬 If you want to say hi, you can shoot me a message [through email](mailto:antliang1117@gmail.com) or [find me on LinkedIn](https://www.linkedin.com/in/dongli-liang/)
+- 💬 If you want to say hi, you can shoot me a message through [email](mailto:antliang1117@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/dongli-liang/)
 - ⚙️ Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
